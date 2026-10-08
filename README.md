@@ -1,4 +1,4 @@
-# AgriTech Decision System
+# AgroPlan Decision System
 
 Um sistema de apoio à tomada de decisão para produtores rurais, desenvolvido para otimizar o planejamento e a execução de safras. A aplicação analisa dados ambientais, características da cultura e o estágio de desenvolvimento da planta para gerar recomendações precisas sobre os momentos ideais para plantio e colheita, reduzindo riscos de perdas financeiras e aumentando a produtividade agrícola.
 
